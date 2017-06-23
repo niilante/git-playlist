@@ -1,2 +1,2 @@
 # git-playlist
-Playground for the Net Ninja Git / GitHub tutorials on YouTube
+Playground for DIV Git and GitHub 
